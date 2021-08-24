@@ -20,3 +20,11 @@ public class App {
 
     }
 }
+/*
+ * una universidad tiene dos turnos (manana y noche ) en los que trabajan 12
+ * empleados 5 por la manana y 7 por la noche, crear un programa que permita
+ * almacenar los datos de los sueldos de los empleados agrupados por turnos,
+ * deben mostrar por pantalla los gastos de los sueldos de cada turno
+ * 
+ * Crear metodos para este ejercicio...
+ */
